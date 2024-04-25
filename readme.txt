@@ -1,3 +1,6 @@
+# ติดตั้ง Python Version 3.8 ขึ้นไป
+https://www.python.org/downloads/
+
 # ติดตั้ง Tesseract-OCR
 https://github.com/UB-Mannheim/tesseract/wiki
 
