@@ -2,7 +2,7 @@
 https://www.python.org/downloads/
 
 # ติดตั้ง Tesseract-OCR
-https://github.com/UB-Mannheim/tesseract/wiki
+https://github.com/UB-Mannheim/tesseract/wiki
 
 # ==>  1. สร้าง Environment Python
 virtualenv -p= yourdrive:\yourparth\python.exe venv
